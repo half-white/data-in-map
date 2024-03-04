@@ -1,7 +1,7 @@
 from pyecharts.charts import Map
 from pyecharts import options as opts
 
-##设置参数调整颜色
+##设置参数用来调整颜色
 a = 0.4
 b = 0.5
 c = 0.6
